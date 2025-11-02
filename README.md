@@ -1,8 +1,8 @@
 This is a Photo Gallery website built using Bootstrap 4. It incorporates various Bootstrap components, including:
-- A responsive navbar menu
-- A dropdown menu
+- Responsive navbar menu
+- Dropdown menu
 - Cards
-- A Carousel
+- Carousel
 
 ![project_photo_gallery](https://github.com/user-attachments/assets/c8c934a6-2575-47a2-b0f3-2405de66af1c)
 
